@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Craddle Shops
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- ReactJS
 
 ## Live Demo (if available)
 
@@ -40,11 +38,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Nakitto Catherine**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Cathella](https://github.com/Cathella)
+- Twitter: [@cathella9](https://twitter.com/cathella9)
+- LinkedIn: [Nakitto Catherine](https://linkedin.com/in/nakitto-catherine2020)
 
 👤 **Author2**
 
